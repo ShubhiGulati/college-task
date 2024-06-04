@@ -8,8 +8,9 @@ function Button() {
             <h1>WE OFFER PROFESSIONAL PROOFREADING</h1>
             <h2>Professional Editing & Proofreading Services<br/>at Your Fingertips</h2>
             <div class="buttons">
-                <a href="#" class="button calculate-price">Calculate Price</a>
-                <a href="#" class="button free-samples">Free Samples</a>
+            <a href="/calculate-price" class="button calculate-price">Calculate Price</a>
+<a href="/free-samples" class="button free-samples">Free Samples</a>
+
             </div>
         </div>
         <div class="image-container">
